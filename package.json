@@ -109,12 +109,12 @@
                 "when": "textInputFocus"
             },
             {
-                "key": "ctrl+shift+alt+u",
+                "key": "shift+alt+u",
                 "command": "cursorHomeSelect",
                 "when": "textInputFocus"
             },
             {
-                "key": "ctrl+shift+alt+o",
+                "key": "shift+alt+o",
                 "command": "cursorEndSelect",
                 "when": "textInputFocus"
             },
